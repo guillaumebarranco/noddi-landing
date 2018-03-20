@@ -1,0 +1,24 @@
+
+/**/
+html,body {height: 100%;}body{display: flex;flex-direction:column;align-items: center;justify-content:center;width:100%;background:#F9D8AD;}svg{max-width: 100%;}
+/**/
+
+/*svg polygon {
+  opacity: 0;
+}*/
+
+.no-js {
+  opacity: 1;
+}
+
+.polylion {
+  height: 800px;
+}
+
+.polylion > polygon .no-cssanimations {
+      transform: scale(1);
+      opacity: 1;
+      transform: scale(1);
+      opacity: 1;
+    }
+  } 
