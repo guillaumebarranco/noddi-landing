@@ -1,1 +1,3 @@
-This is the README on this project.
+Noddi Landing Page
+
+Live at http://lab.webarranco.fr/noddi-landing/
